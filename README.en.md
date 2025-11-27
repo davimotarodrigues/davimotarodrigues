@@ -34,7 +34,7 @@ I'm dedicated to improve my knowledge in the world of technology, I share my pro
 
 #
 
-### How to get in contact:
+### How to contact me:
 
 <div align="start">
   <a href = "mailto:motarodri.davi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
