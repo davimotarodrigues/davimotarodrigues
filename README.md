@@ -2,7 +2,7 @@
 
 **Estudante de TI | Desenvolvedor em formação**
 
-Tenho 16 anos, moro em São Paulo e estudo no eniso médio técnico da FIAP School.  
+Tenho 16 anos, moro em São Paulo e estudo no ensino médio técnico da FIAP School.  
 Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo novas tecnologias.
 
 ### 🧩 Tecnologias
@@ -20,24 +20,32 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
 
 ---
 
-### 📈 Minhas contribuições
+### 📈 Minhas Contribuições (3D)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-3d.svg" alt="3D Contributions Animation">
+</p>
+
+---
+
+### 🌊 Minha Atividade (Wave)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave.svg" alt="Activity Wave Animation">
+</p>
+
+---
+
+### 🏙️ Skyline + Wave
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake-light.svg">
-  <img align="center" alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave-skyline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave-skyline.svg">
+  <img align="center" alt="Wave + Skyline Animation"
+       src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave-skyline.svg">
 </picture>
 
 ---
 
 ### 📚 Projetos em destaque
 - **Projeto A** — descrição curta  
-- **Projeto B** — descrição curta
+- **Projeto B** — descrição curta  
 
 ---
-
-Se quiser ver estatísticas do GitHub:
-```markdown
-<img src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave.svg" alt="Activity Wave Animation">
