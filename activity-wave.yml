@@ -1,0 +1,16 @@
+name: Activity Wave
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Atualiza a cada 12h
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update Activity Wave
+        uses: gayanvoice/github-activity-readme@v1
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
