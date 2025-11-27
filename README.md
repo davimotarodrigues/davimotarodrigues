@@ -7,7 +7,7 @@
 # Beleza?? Eu sou o Davi!
 
 Tenho 16 anos, moro em São Paulo e estudo no ensino médio técnico da FIAP School.
-Estou dedicado a aprimorar meus conhecimentos do mundo da tecnologia, compartilho meus projetos, estudos e exercícios aqui no Github e no meu [Linkedin](https://www.linkedin.com/in/davi-mota7/)
+Estou dedicado a aprimorar meus conhecimentos do mundo da tecnologia, compartilho minha experiência, projetos e estudos aqui no Github e no meu [Linkedin](https://www.linkedin.com/in/davi-mota7/)
 
 ### 🧩 Linguagens e Tecnologias
 
