@@ -49,4 +49,4 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
 
 Se quiser ver estatísticas do GitHub:
 ```markdown
-![GitHub Activity Animation](./profile-3d-contrib/profile-white.svg)
+<img src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave.svg" alt="Activity Wave Animation">
