@@ -1,28 +1,20 @@
-# 👨‍💻 Davi Mota
+# Beleza?? Eu sou o Davi!
 
-**`Estudante de Tecnologia / Desenvolvedor em formação`**
+**Estudante de TI | Desenvolvedor em formação**
 
-Olá! Meu nome é Davi Mota Rodrigues, tenho 16 anos e sou de São Paulo.  
-Atualmente curso o Ensino Médio Técnico em Informática/TI e sou apaixonado por tecnologia, programação e inovação.  
-Aqui no GitHub você encontra meus projetos, estudos e muita evolução 🚀
-
----
-
-### 🌎 Conecte-se comigo:
-
-<a href="<seu link do Linkedin>" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="<seu Instagram>" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:<seu email>">
-  <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Tenho 16 anos, moro em São Paulo e estudo no eniso médio técnico da FIAP School.  
+Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo novas tecnologias.
 
 ---
 
-### 🧠 Linguagens e Tecnologias
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-mota7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:motarodri.davi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧩 Tecnologias
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -33,33 +25,28 @@ Aqui no GitHub você encontra meus projetos, estudos e muita evolução 🚀
 <img align="left" alt="MySQL" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-<br><br>
+<br clear="both" />
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<SeuUsuarioGitHub>&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SeuUsuarioGitHub>&layout=compact&custom_title=Tecnologias&theme=tokyonight"/>
-</div>
-
----
-
-### 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<SeuUsuarioGitHub>/<SeuUsuarioGitHub>/output/github-contribution-grid-snake.svg"/>
-</p>
+### 📈 Minhas contribuições
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake-light.svg">
+  <img align="center" alt="github contribution grid snake animation"
+       src="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-### ✨ Objetivos
-
-- 📌 Aprimorar minhas habilidades em desenvolvimento Full Stack  
-- 📌 Contribuir para projetos open-source  
-- 📌 Me tornar um profissional de tecnologia excepcional  
+### 📚 Projetos em destaque
+- **Projeto A** — descrição curta  
+- **Projeto B** — descrição curta
 
 ---
 
-⭐ *Se gostou dos meus projetos, não esqueça de deixar uma estrela!* ⭐
+Se quiser ver estatísticas do GitHub:
+```markdown
+<img src="https://github-readme-stats.vercel.app/api?username=<SEU_USUARIO>&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
