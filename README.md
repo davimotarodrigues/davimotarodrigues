@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/EN-English-blue?style=for-the-badge">
+  </a>
+</div>
+
 # Beleza?? Eu sou o Davi!
 
 Tenho 16 anos, moro em São Paulo e estudo no ensino médio técnico da FIAP School.  
@@ -15,8 +21,6 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
 <img align="left" alt="MongoDB" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
 <br clear="both" />
-
-### 📊 Linguagens mais usadas
 
 <div align="start">
   <img 
