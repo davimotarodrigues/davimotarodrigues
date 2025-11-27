@@ -16,6 +16,15 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
 
 <br clear="both" />
 
+### 📊 Linguagens mais usadas
+
+<div align="center">
+  <img 
+       height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimotarodrigues&layout=compact&theme=tokyonight"
+  />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
