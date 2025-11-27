@@ -35,11 +35,10 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
 ---
 
 ### 🏙️ Skyline + Wave
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave-skyline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave-skyline.svg">
-  <img align="center" alt="Wave + Skyline Animation"
-       src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave-skyline.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
