@@ -24,7 +24,7 @@ Estou dedicado a aprimorar meus conhecimentos do mundo da tecnologia, compartilh
 
 # 
 
-<div align="center">
+<div align="start">
   <img 
        height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimotarodrigues&layout=compact&theme=tokyonight"
@@ -33,9 +33,9 @@ Estou dedicado a aprimorar meus conhecimentos do mundo da tecnologia, compartilh
 
 #
 
-<div align="center">
-  ### Como entrar em contato
-  
+### Como entrar em contato:
+
+<div align="start">
   <a href = "mailto:motarodri.davi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-mota7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
