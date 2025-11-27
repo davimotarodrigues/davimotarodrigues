@@ -3,7 +3,7 @@
 Tenho 16 anos, moro em São Paulo e estudo no ensino médio técnico da FIAP School.  
 Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo novas tecnologias.
 
-### 🧩 LinguageTecnologias
+### 🧩 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -23,11 +23,3 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
   <img alt="Snake animation" src="./output/github-contribution-grid-snake.svg" />
 </picture>
 
-
----
-
-### 📚 Projetos em destaque
-- **Projeto A** — descrição curta  
-- **Projeto B** — descrição curta  
-
----
