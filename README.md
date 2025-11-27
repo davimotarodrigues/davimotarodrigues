@@ -5,15 +5,6 @@
 Tenho 16 anos, moro em São Paulo e estudo no eniso médio técnico da FIAP School.  
 Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo novas tecnologias.
 
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/davi-mota7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:motarodri.davi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 ### 🧩 Tecnologias
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
