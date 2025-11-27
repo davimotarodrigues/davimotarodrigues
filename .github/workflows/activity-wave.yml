@@ -1,0 +1,25 @@
+name: Activity Wave
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Atualiza a cada 12h
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Activity Wave
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          config_output: svg
+      - name: Move output
+        run: |
+          mkdir -p output
+          mv metrics.svg output/github-contribution-grid-wave.svg
