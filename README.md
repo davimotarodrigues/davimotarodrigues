@@ -18,17 +18,10 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
 
 ### 📊 Linguagens mais usadas
 
-<div align="center">
+<div align="start">
   <img 
        height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimotarodrigues&layout=compact&theme=tokyonight"
-  />
-</div>
-
-<div align="center">
-  <img
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=davimotarodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 </div>
 
