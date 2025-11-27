@@ -1,11 +1,9 @@
 # Beleza?? Eu sou o Davi!
 
-**Estudante de TI | Desenvolvedor em formação**
-
 Tenho 16 anos, moro em São Paulo e estudo no ensino médio técnico da FIAP School.  
 Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo novas tecnologias.
 
-### 🧩 Tecnologias
+### 🧩 LinguageTecnologias
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -18,21 +16,6 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
 
 <br clear="both" />
 
----
-
-### 📈 Minhas Contribuições (3D)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-3d.svg" alt="3D Contributions Animation">
-</p>
-
----
-
-### 🌊 Minha Atividade (Wave)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/davimotarodrigues/davimotarodrigues/output/github-contribution-grid-wave.svg" alt="Activity Wave Animation">
-</p>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
