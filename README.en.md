@@ -7,7 +7,7 @@
 # Whats up?? I'm Davi!
 
 I am 16 years old, I live in São paulo and I study at FIAP School’s technical high school program focused on Information Technology.
-I'm dedicated to improve my knowledge in the world of technology, I share my knowledge, projects and studies here on Github and on my [Linkedin](https://www.linkedin.com/in/davi-mota7/)
+I'm dedicated to improve my knowledge in the world of technology, I share my proficiency, projects and studies here on Github and on my [Linkedin](https://www.linkedin.com/in/davi-mota7/)
 
 ### 🧩 Languages and Technologies
 
