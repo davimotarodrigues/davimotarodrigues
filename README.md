@@ -49,4 +49,4 @@ Aqui no GitHub compartilho projetos, estudos e exercícios enquanto aprendo nova
 
 Se quiser ver estatísticas do GitHub:
 ```markdown
-<img src="https://github-readme-stats.vercel.app/api?username=<SEU_USUARIO>&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+![GitHub Activity Animation](./profile-3d-contrib/profile-white.svg)
