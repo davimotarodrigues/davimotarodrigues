@@ -2,7 +2,7 @@ name: Activity Wave
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Atualiza a cada 12h
+    - cron: "0 */12 * * *" # Atualiza a cada 12 horas
   workflow_dispatch:
 
 jobs:
@@ -12,14 +12,20 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Activity Wave
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: davimotarodrigues
           base: ""
           plugin_isocalendar: yes
-          config_output: svg
-      - name: Move output
+          config_timezone: America/Sao_Paulo
+          output: metrics.svg
+
+      - name: Save Wave Animation
         run: |
           mkdir -p output
           mv metrics.svg output/github-contribution-grid-wave.svg
